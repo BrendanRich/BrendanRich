@@ -1,9 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Brendan! <br/><a href="https://github.com/<a href="https://">Cybersecurity Professional</a> <a >
 
-<!--
-**BrendanRich/BrendanRich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
+[twitter]: 
+[youtube]: 
+[instagram]: 
+[linkedin]: 
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
